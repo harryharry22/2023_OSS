@@ -31,32 +31,35 @@
 ### 2주차 숙제
 
 ```bash
-#!/usr/bin/env bash
+
+STUDENT_ID="2020125049"
+NAME="이종엽"
+
+FILE_PATH=$(find /home/kau2 -name "w2_homework.txt")
+
+LINE_NUMBER=$(wc -l < "$FILE_PATH")
+LAST_LINE=$(tail -n 1 "$FILE_PATH")
+
 echo "----------"
 echo "name :"
-echo "박노헌"
-echo
-
+echo "$NAME"
+echo " "
 echo "----------"
 echo "student id :"
-echo "202321018"
-
-file_path=`find /home/kau2/ -name w2_homework.txt 2> /dev/null`
+echo "$STUDENT_ID"
 echo "----------"
-echo
+echo " "
 echo "file path :"
-echo $file_path
-echo
-
-line_num=`wc -l $file_path | cut -c 1 -`
+echo "$FILE_PATH"
+echo " "
 echo "----------"
 echo "line number :"
-echo $line_num
-echo
-
+echo "$LINE_NUMBER"
+echo " "
 echo "----------"
-echo "lask line :"
-tail -n 1 $file_path
+echo "last line :"
+echo "$LAST_LINE"
+
 ```
 
 ## 마크다운
