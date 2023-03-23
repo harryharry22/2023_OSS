@@ -1,10 +1,10 @@
-  GNU nano 6.2                              README.md                                        #2023_OSS
+#2023_OSS
 
 3주차 강의 : [w3 디렉토리](./w3/README.md)
 
 ##w3
+![이미지](https://github.com/nparkcourage/2023-kau-0504/blob/main/w3/2023_OSS/img/kau/kau.pn)
 
-![이미지](https://github.com/nparkcourage/2023-kau-0504/blob/main/w3/2023_OSS/img/kau/kau.pn>
 [LMS](https://lms.kau.ac.kr/)
 
 [ProGit 링크](https://git-scm.com/book/ko/v2)
@@ -24,7 +24,7 @@ log
 
 ##2주차 숙제
 
-\`\`\`bash
+\`\`\`c
 
 STUDENT_ID="2020125049"
 NAME="이종엽"
@@ -53,7 +53,5 @@ echo " "
 echo "----------"
 echo "last line :"
 echo "$LAST_LINE"
-
-
 
 \`\`\`
