@@ -25,6 +25,8 @@ log
 
 ##2주차 숙제
 
+\`\`\`c
+
 STUDENT_ID="2020125049"
 NAME="이종엽"
 
@@ -53,6 +55,7 @@ echo "----------"
 echo "last line :"
 echo "$LAST_LINE"
 
+\`\`\`
 
 
 
