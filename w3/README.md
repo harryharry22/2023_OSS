@@ -9,10 +9,10 @@
 
 
 ### 링크   
-[LMS](https://lms.kau.ac.kr "항공대학교 강의관리시스템")
+[LMS](https://lms.kau.ac.kr)
 
 #### ProGit 링크
-[ProGit](https://git-scm.com/book/ko/v2 "git 문서, 한국어")
+[ProGit](https://git-scm.com/book/ko/v2)
 
 
 ##### 주요 git 명령어
