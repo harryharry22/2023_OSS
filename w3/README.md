@@ -33,7 +33,7 @@
 ```bash
 
 STUDENT_ID="2020123456"
-NAME=동홍길동"
+NAME="harry"
 
 FILE_PATH=$(find /home/kau2 -name "w2_homework.txt")
 
